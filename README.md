@@ -1,4 +1,3 @@
 # test
-for git/github workshop 
+test repo for git/github workshop 
 
-hi, my name is marium
